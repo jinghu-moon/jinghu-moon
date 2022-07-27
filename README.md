@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @jinghu-moon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+你好，我是镜湖月。
 
-<!---
-jinghu-moon/jinghu-moon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| 常用语言                                                     | 我的状态                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinghu-moon)](https://github.com/Christmas/github-readme-stats) | ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinghu-moon&show_icons=true&theme=nord) |
